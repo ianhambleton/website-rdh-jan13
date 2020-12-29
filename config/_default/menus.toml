@@ -4,38 +4,48 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
-  url = "#about"
+  name = "services"
+  url = "#features"
   weight = 10
-
-[[main]]
-  name = "Posts"
-  url = "#posts"
+  
+  [[main]]
+  name = "policy"
+  url = "#policy"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "roadmap"
+  url = "#roadmap"
   weight = 30
 
 [[main]]
-  name = "Talks"
-  url = "#talks"
+  name = "guidelines"
+  url = "docs/"
   weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "training"
+  url = "/"
   weight = 50
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "support"
+  url = "/"
+  weight = 50
+
+[[main]]
+  name = "REDCap"
+  url = "#redcap"
   weight = 60
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "media/resume.pdf"
-#    weight = 70
+  
+[[main]]
+  name = "DMPOnline"
+  url = "/"
+  weight = 70
+
+  
+[[main]]
+  name = "DataVerse"
+  url = "/"
+  weight = 80

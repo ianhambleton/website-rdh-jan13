@@ -10,7 +10,7 @@ icon_pack: fas
 title: 1. About this Guide
 date: "202-12-20T00:00:00Z"
 type: book  # Do not modify.
-weight: 100
+weight: 1
 
 ---
 

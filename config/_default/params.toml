@@ -13,6 +13,8 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
+# ORIGINAL THEME CODE (replaced on 8-JAN-2021]
+# theme = "minimal"
 theme = "minimal"
 
 # Enable users to switch between day and night mode?
@@ -168,7 +170,8 @@ abstract_length = 135
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_js  = []
+#   plugins_js  = []
+plugins_js = []
 
 # Avatars.
 # An avatar is an image that appears next to a user's name.

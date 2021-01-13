@@ -32,6 +32,7 @@ advanced:
   css_class:
 ---
 <h1 style="text-align:center;">Support for Research Data Handling</h1>
+<h1 style="text-align:center;"><b>Website version 13-jan-2021</b></h1>
 <h2 style="text-align:center;">Software ◾︎ Guidelines ◾︎ Training ◾︎ Support</h2>
 
 <br> 
